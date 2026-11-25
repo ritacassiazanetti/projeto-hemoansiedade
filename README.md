@@ -31,26 +31,20 @@ com arquitetura preparada para futura integração aos sistemas institucionais d
 
 Olá, segue Avaliação Final do Paciente: Nome do Paciente
 
-1. Sente-se angustiado(a) ou mal-humorado(a)? = 2
-2. Redução da interação social (falta de vontade de se comunicar com outras pessoas? = 1
-3. Perda de interesse do autocuidado (perda de interesse em se vestir, em se arrumar)? = 1
-4. Falta de motivação para fazer as coisas no dia a dia? = 2
-5. Sente-se culpado(a) ou com sentimento de culpa? = 3
-6. Sente-se um peso na situação econômica (financeira) da família? = 1
-7. Sente-se um peso na situação psicológica (emocional) da família? = 2
-8. Sente-se desvalorizado(a) ou fracassado(a)? = 3
-9. Tem pensamentos constantes de morte, incluindo ideias de suicídio? = 1
-10. Sente-se incapaz de realizar qualquer coisa? = 0
-11. Sente-se pessimista ou decepcionado(a)? = 3
-12. Sente que precisa se esforçar muito para se concentrar em algo? = 2
-13. Sente perda de interesse em atividades que antes gostava? = 3
-14. Sente-se sozinho(a)? = 2
-15. Chora facilmente? = 3
-16. Tem se movimentado mais devagar e demorado a responder? = 2
-17. Tem perda de memória (dificuldade em se lembrar de algo)? = 3
-18. Sente-se indigno (merecedor) para receber cuidados dos outros? = 3
-   
-Pontuação Total: 37
+1. Você sente dificuldade para se concentrar? = 3
+2. Você se sente nervoso(a), ansioso(a) ou agitado(a) com facilidade? = 3
+3. Você fica nervoso(a), com medo ou pavor de agulhas? = 2
+4. Você fica nervoso(a), assustado(a) ou com medo da hemodiálise? = 3
+5. Você se preocupa que a hemodiálise sobrecarregue a situação financeira da sua família? = 2
+6. Você se preocupa que a hemodiálise afete suas atividades sociais? = 3
+7. Você se sente preocupado(a) que a sua doença possa piorar a qualquer momento? = 2
+8. Você sente sua mente inquieta (muitos pensamentos)? = 3
+9. Você sente medo sem motivo? = 2
+10. Você sente medo de perder o controle ou entrar em crise? = 3
+11. Você sente muita dificuldade para relaxar? = 2
+12. Você se sente impaciente e se estressa com os(as) outros(as) ao seu redor? = 3
+
+Pontuação Total: 31
 
 </details>
 
@@ -91,18 +85,6 @@ Pontuação Total: 37
 | `Resposta11` | Número |
 | `Pergunta12` | Texto com várias linhas |
 | `Resposta12` | Número |
-| `Pergunta13` | Texto com várias linhas |
-| `Resposta13` | Número |
-| `Pergunta14` | Texto com várias linhas |
-| `Resposta14` | Número |
-| `Pergunta15` | Texto com várias linhas |
-| `Resposta15` | Número |
-| `Pergunta16` | Texto com várias linhas |
-| `Resposta16` | Número |
-| `Pergunta17` | Texto com várias linhas |
-| `Resposta17` | Número |
-| `Pergunta18` | Texto com várias linhas |
-| `Resposta18` | Número |
 | `HoraAvaliacaoI` | Data e Hora |
 | `HoraAvaliacaoF` | Data e Hora |
 | `PontuacaoTotal` | Número |
