@@ -20,7 +20,7 @@ com arquitetura preparada para futura integração aos sistemas institucionais d
 **O código-fonte e os arquivos da aplicação encontram-se disponibilizados neste repositório no estágio atual de desenvolvimento para fins de registro, transparência e continuidade futura.**\
 **Mês / Ano de desenvolvimento:** 05/2026 à 09/2026
 
-**Notificação e Relatório Automatizado:** Ao acionar o comando de gravação, o sistema envia automaticamente uma cópia estruturada das respostas ao profissional de saúde responsável pela avaliação psicológica do paciente. O relatório discrimina cada questão, sua respectiva pontuação individual e o escore total obtido, permitindo identificar rapidamente os itens de maior impacto e subsidiar a definição de estratégias terapêuticas personalizadas.
+**Notificação e Relatório Automatizado:** Ao acionar o comando de gravação, o sistema envia automaticamente uma cópia estruturada das respostas ao profissional de saúde responsável pela avaliação psicológica do paciente. O relatório transcreve cada questão, sua respectiva pontuação individual e o escore total obtido, permitindo identificar rapidamente os itens de maior impacto e fundamentar a definição de estratégias terapêuticas personalizadas.
 
 **Abaixo, exemplo do e-mail gerado ao profissional de saúde:**
 <details>
